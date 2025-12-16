@@ -1,5 +1,5 @@
 
-# TransactionManagerblob – startovací balíček (Express)
+# TransactionManagerblob – startovací balíček (Express) blob
 
 Tento projekt je připraven pro tým, který bude vytvářet jednotlivé cesty (endpointy) pro TransactionManager.
 
